@@ -20,7 +20,7 @@ float trapezoidal(float a, float b, int n) {
 int main() {
     float a = 1.0f;  
     float b = 3.0f;  
-    int n = 1000;    
+    int n = 10000;    
 
     float result = trapezoidal(a, b, n);
 
